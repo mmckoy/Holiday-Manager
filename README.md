@@ -1,5 +1,5 @@
 # Holiday-Manager
-A text-based application to track holidays
+Creating a text-based application to track holidays
 
 Main Menu
 Holiday Menu

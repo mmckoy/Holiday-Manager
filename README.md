@@ -27,12 +27,6 @@ Exit
 Are you sure you want to exit? [y/n] y
 
 Goodbye!
-If there are changes to be saved:
 
-Exit
-=====
-Are you sure you want to exit? 
-Your changes will be lost.
-[y/n] y
 
-Goodbye!
+
